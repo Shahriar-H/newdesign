@@ -1,0 +1,993 @@
+.loader{
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: fixed;
+    z-index: 999;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.loader>img{
+    width: 300px;
+}
+
+.loader.hidden{
+    animation: fadeout 3.5s;
+    animation-fill-mode: forwards ;
+}
+
+@keyframes fadeout{
+    100%{
+        opacity: 0;
+        visibility: hidden;
+    }
+}
+
+html{
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+.img_logo{
+    height: 5rem;
+    width: 5rem;
+    margin: 3rem 10rem;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* ##$#$#$$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#
+            Header Sections Statrt
+ ##$#$#$$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$#$# */
+
+header{
+    background-image: url('img/team-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 76rem;
+    padding: 0;
+    margin: 0;
+    min-height: 76rem;
+    
+}
+body{
+    overflow-x: hidden;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    
+}
+
+
+
+li{
+
+    float: left;
+    padding-left: 1.7rem;
+}
+
+.main_menu{
+    padding: 4rem  10rem;
+    margin-left: 45rem;
+        
+    }
+ 
+    
+.navi{
+    display: inline-flex;
+    
+    }
+    
+.main_menu .afirst{
+    color:#10C9C3;
+    }
+    
+
+.main_menu li a{
+    text-decoration: none;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    color: black;
+    font-weight: 600;
+}
+
+a{
+    text-decoration: none;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    color: black;
+}
+
+
+
+
+li a:hover{
+    color: #10C9C3;
+}
+
+.headings h1{
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.paragraph p{
+    text-align: left;
+    font-size: 2rem;
+    color: rgb(56, 56, 56);
+    line-height: 2.5rem;
+    
+}
+
+.paragraph{
+    width: 50rem;
+    margin-top: 3rem;
+}
+
+.headings{
+    margin: 0 auto;
+    margin-top: 13rem;
+    width: 50%;
+}
+
+.button1 a{
+    padding: 1.7rem 5rem;
+    color: white;
+    background: #10C9C3 ;
+}
+
+.button1 a:hover{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(4, 161, 156);
+    transition: .5s;
+}
+
+.button1{
+    margin: 0 36rem;
+    margin-top: 5rem;
+    width: 20%;
+}
+
+
+/*
+==========================================================
+=======================================================
+            header section end
+========================================================
+===========================================================
+*/
+
+
+
+
+
+.sticky{
+    z-index: 99;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: white;
+    background-size: 100% 10rem;
+    border-bottom: .1rem solid rgba(117, 116, 116, 0.664);
+    height: 10rem;
+    width: 100%;
+
+}
+
+
+
+
+/*
+==========================================================
+=======================================================
+            sticky section end
+========================================================
+===========================================================
+*/
+
+
+.mobile_menu li{
+    float: none;
+    
+}
+
+.mobile_menu li a{
+    color: blanchedalmond;
+    text-decoration: none;
+    font-size: 2rem;
+
+}
+
+span{
+    font-size: 4rem;
+    
+}
+
+span:hover{
+    cursor: pointer;
+}
+
+.mobile_icon{
+    margin-left: -5rem;
+    margin-top: 1.5rem;
+    display: none;
+    
+}
+
+.time_close{
+    font-size: 5rem;
+    color: rgb(247, 9, 9);
+    margin-left: 50%;
+}
+
+.mobile_menu{
+    width: 0;
+    background-color: rgba(0, 0, 0, 0.774);
+    
+    height: 100%;
+    top: 0;
+    left: 0;
+    position: fixed;
+    overflow-x: hidden;
+    transition: .6s;
+    
+    
+}
+
+
+
+/*
+==========================================================
+=======================================================
+            mobile menu section end
+========================================================
+===========================================================
+*/
+
+
+/*
+=========================================================
+=======================================================
+            About section start
+========================================================
+===========================================================
+*/
+
+.para p{
+    font-size: 1.5rem;
+    text-align: center;
+    line-height: 2.6rem;
+    color: rgb(56, 56, 56);
+    padding-top: 1.7rem;
+
+}
+
+.para{
+    margin: 10rem 40rem;
+}
+
+
+.para h2{
+    text-align: center;  
+    font-size: 2.5rem;
+    font-weight: 650;
+  
+}
+
+.sign{
+    height: 5rem;
+    width: 10rem;
+    margin-bottom: 0;
+}
+
+.img2{
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 0;
+}
+
+/*
+=========================================================
+=======================================================
+            About section end
+========================================================
+===========================================================
+*/
+
+
+
+
+
+
+/*
+=========================================================
+=======================================================
+            Skills section start
+========================================================
+===========================================================
+*/
+
+.skill_section{
+    height: 60rem;
+    background-image: url('img/cover.jpg');
+    background-size: 100% 60rem;
+    background-repeat: no-repeat;
+    padding: 27rem 26rem;
+}
+
+.pro{
+    padding-top: 1.5rem;
+}
+.head4 h2{
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+
+.pro1{
+    margin-top: 2.6rem;
+}
+
+.progg1{
+    width: 50%;
+    height: .4rem;
+    margin-top: 1rem;
+    background: rgb(138, 137, 137);
+    z-index: 1067897776;
+}
+
+.progg4{
+    width: 75%;
+    background-color: #10C9C3;
+}
+.progg2{
+    width: 90%;
+    background-color: #10C9C3;
+}
+
+.progg3{
+    width: 65%;
+    background-color: #10C9C3;
+}
+
+
+
+
+
+/*
+=========================================================
+=======================================================
+            Skills section start
+========================================================
+===========================================================
+*/
+
+
+
+/*
+=========================================================
+=======================================================
+            Description section start
+========================================================
+===========================================================
+*/
+
+.img6{
+    height: 3rem;
+    width: 3rem;
+    color: white;
+}
+.description{
+    background-color: #10C9C3;
+    background-size: 100% 23rem;
+    height: 23rem;
+    padding: 8rem 8rem;
+    
+}
+
+.description .box{
+    display: inline-flex;
+    margin: 20px 50px;
+}
+
+}
+
+.description .he-pa{
+    margin-left: 1.8rem;
+    margin-top: 1.2rem;
+    color: white;
+}
+
+
+.description img{
+    margin-top: 2rem;
+}
+
+
+
+
+/*
+=========================================================
+=======================================================
+            testimonial section start
+========================================================
+===========================================================
+*/
+
+.img4{
+    height: 30rem;
+    width: 100%;
+    padding: 0;
+    overflow: hidden;
+}
+
+.box2{
+    position: relative;
+}
+
+.box2::before{
+    content: "";
+    right: 0;
+    left: 0;
+    height: 0rem;
+    width: 0rem;
+    background-color: rgba(0, 0, 0, 0.823);
+    border-bottom: .5rem solid #10C9C3;
+    position: absolute;
+    transition: .5s;
+}
+
+.box2:hover::before{
+    height: 50%;
+    width: 100%;
+    transition: .7s;
+    cursor: pointer;
+    
+}
+
+
+
+.box2:nth-child(2):hover::before{
+    height: 15rem;
+    width: 37rem;
+    margin-left: -1rem;
+    transition: .7s;
+    
+}
+
+.box2:nth-child(4):hover::before{
+    height: 15rem;
+    width: 37rem;
+    margin-left: -.6rem;
+    transition: .7s;
+    
+}
+
+.row2 .box2:nth-child(2):hover::before{
+    height: 15rem;
+    width: 37rem;
+    margin-left: 1.2rem;
+    transition: .7s;
+    
+}
+.row2 .box2:nth-child(3):hover::before{
+    height: 15rem;
+    width: 36rem;
+    margin-left: 1.2rem;
+    transition: .7s;
+    
+}
+.row2 .box2:nth-child(4):hover::before{
+    height: 15rem;
+    width: 37rem;
+    margin-left: -.1rem;
+    transition: .7s;
+    
+}
+
+
+
+
+
+
+.testimonial .col{
+    margin: 0;
+}
+
+
+
+.testimonial .roww{
+    padding: 0;
+    overflow: hidden;
+}
+}
+.testimonial .col{
+    margin: 0;
+    padding: 0;
+}
+
+.img11{
+    margin-left: -.7rem;
+    width: 36.3rem;
+}
+
+
+.img13{
+    margin-left: -.9rem;
+    width: 36.1rem;
+    overflow: hidden;
+}
+.img17{
+
+    width: 37rem;
+}
+
+.img15{
+    margin-left: 1rem;
+    width: 37rem;
+}
+.img16{
+    margin-left: 1.1rem;
+}
+
+.load{
+    width: 100%;
+    height: 8rem;
+    background-color: rgb(221, 221, 221);
+    background-size: 100% 8rem;
+    text-align: center;
+    
+}
+
+.load button{
+    margin-top: 2.2rem;
+    border: none;
+    padding: 1rem 2rem;
+    background-color: rgb(221, 221, 221);
+    font-size: 1.5rem;
+
+}
+:focus{
+    outline: 1;
+}
+
+#larg{
+    display: none;
+}
+.img21{
+    margin-left: 4.5rem;
+    width: 37rem;
+}
+
+.img20{
+    margin-left: 3.5rem;
+}
+
+.img19{
+    margin-left: 1rem;
+    width: 37rem;
+}
+.row3 .box2:nth-child(2):hover::before{
+    height: 15rem;
+    width: 37rem;
+    margin-left: 1rem;
+    transition: .7s;
+    overflow: hidden;
+    
+}
+.row3 .box2:nth-child(3):hover::before{
+    height: 15rem;
+    width: 37rem;
+    margin-left: 2.5rem;
+    transition: .7s;
+    left: 1rem;
+    top: 1;    
+    overflow: hidden;
+
+}
+.row3 .box2:nth-child(4):hover::before{
+    height: 15rem;
+    width: 37rem;
+    margin-left: 4.5rem;
+    transition: .7s;
+    overflow: hidden;
+
+    
+}
+
+
+/*
+=========================================================
+=======================================================
+            work section start
+========================================================
+===========================================================
+*/
+
+
+.work_section .row h2 {
+    font-size: 2.5rem;
+    text-align: center;
+    width: 100%;
+    color: black;
+    font-weight: 700;
+    padding-top: 6rem;
+    
+}
+.work_section .row{
+    margin: 0;
+}
+
+.row5{
+    padding: 0 50rem;
+    margin: 0;
+}
+
+.work_section .row p {
+
+    font-size: 1.5rem;
+    text-align: center;
+    width: 100%;
+    padding-top: 1.5rem;
+    margin: 0;
+}
+
+
+/*
+=========================================================
+=======================================================
+                     section start
+========================================================
+===========================================================
+*/
+
+.sections{
+    background-color: rgba(226, 224, 224, 0.856);
+    background-size: 100% 50rem;
+    height: 50rem;
+    padding: 7rem 0;
+}
+
+.sections .row{
+    margin: 0;
+}
+
+p{
+    
+}
+
+.rews{
+    margin-top: 2.5rem;
+}
+.icons{
+    height: 5rem;
+    width: 5rem;
+    margin-bottom: 2rem;
+}
+
+.baxso{
+    text-align: center;
+}
+.parag{
+    padding: 0 20%;
+    margin-top: 1rem;
+}
+.parag p{
+    font-size: 1.4rem;
+}
+
+
+
+
+/*
+=========================================================
+=======================================================
+                  qoute   section start
+========================================================
+===========================================================
+*/
+
+.quote{
+    background-color: #10C9C3;
+    height: 45rem;
+    width: 100%;
+    background-size: cover;
+    text-align: center;
+    padding: 15rem 40rem;
+    
+}
+
+.bt2{
+    display: inline-flex;
+    padding-left: 1rem;
+    margin-top: 12rem;
+}
+
+.bt2 button:nth-child(2){
+    margin: 0 1.5rem;
+}
+.bt2 button{
+    border-radius: 50%;
+    padding: .5rem;
+    border: none;
+    
+}
+
+.ukti{
+    text-align: left;
+    position: relative;
+    animation-name: example;
+    animation-duration: 2s;
+    transition-timing-function: linear ;
+
+}
+
+@keyframes example{
+
+0%{
+    left: 0;
+    top: 12rem;
+    transition: 2s;
+}
+10%{
+    left: 3rem;
+}
+
+20%{
+    left: 5rem;
+}
+25%{
+    left:7rem ;
+}
+
+
+35%{
+    left:9rem ;
+}
+
+50%{
+    left: 10rem;
+}
+60%{
+   left:8rem; 
+}
+
+70%{
+    left: 5rem;
+}
+
+80%{
+    left: 3rem;
+}
+
+
+100%{
+    left: 0rem;
+}
+
+}
+
+.ukti h3{
+    color: white;
+    font-size: 2.5rem;
+}
+
+
+.ukt h3{
+    color: white;
+    font-size: 2.5rem;
+}
+.uk h3{
+    color: white;
+    font-size: 2.5rem;
+}
+
+.uk{
+    display: none;
+}
+
+
+#uk1{
+    display: none;
+    transition: .6s;
+}
+
+#uk4{
+    display: none;
+}
+
+.bt2 button:hover{
+ padding: .6rem;
+}
+
+
+/*
+=========================================================
+=======================================================
+                  featured  section start
+========================================================
+===========================================================
+*/
+
+.featured{
+    text-align: center;
+    padding: 3rem 5rem;
+}
+
+.featured .row{
+    margin: 0;
+}
+
+.feas{
+    height: 15rem;
+    width: 15rem;
+}
+
+
+
+/*
+=========================================================
+=======================================================
+                  contact   section start
+========================================================
+===========================================================
+*/
+
+.contact_sec .row{
+    margin: 0;
+}
+
+.contact_sec{
+    padding: 8rem 40rem;
+    text-align: center;
+    background-color: rgba(236, 234, 234, 0.815);
+    height: 50rem;
+    width: 100%;
+    padding-bottom: 12rem;
+}
+
+.contact_sec .row .box6{
+    width: 100%;
+}
+
+.contact_sec .roo{
+    display: block;
+}
+
+.contact_sec .row12{
+    margin-top: 3rem;
+}
+
+.contact_sec .row .box6 input{
+    width: 100%;
+    height: 3.5rem;
+    border: none;
+}
+
+.contact_sec .roo h2{
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+.contact_sec .roo p{
+    font-size: 1.5rem;
+}
+
+
+.row .mass{
+    width: 100%;
+}
+.row .mass input{
+    width: 100%;
+    height: 15rem;
+    border: 0;
+}
+
+.bubb{
+    padding: 1rem 4rem;
+    background-color: #10C9C3;
+    border: none;
+    margin-top: 1rem;
+}
+
+
+/*
+=========================================================
+=======================================================
+                    section footer start
+========================================================
+===========================================================
+*/
+
+.foot .row{
+    margin: 0;
+    
+}
+
+.foot{
+    padding: 10rem 10rem;
+}
+
+.foot{
+    background-color: black;
+    height: 30rem;
+    width: 100%;
+    
+}
+
+.foot .row li{
+    float: none;
+}
+
+.foot .row li a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.foot .row .hjk li{
+    float: left;
+}
+
+.foot .row p{
+    color: rgb(216, 214, 214);
+    font-size: 1.5rem;
+}
+
+.foot .row h3{
+    color: white;
+}
+
+.hjk .social{
+    height: 4rem;
+    width: 4rem;
+    background-color: rgb(224, 220, 220);
+    padding: 1rem 1rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

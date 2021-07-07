@@ -1,0 +1,1361 @@
+
+
+@media only screen and (max-width: 1440px){
+
+.main_menu{
+    margin-left: 13rem;
+}
+
+
+
+.main_menu li a{
+    font-size: 2rem;
+    font-weight: 550;
+}
+
+.headings h1{
+    font-size: 3rem;
+}
+.headings p{
+    font-size: 2rem;
+    line-height: 3.5rem;
+    font-weight: 500;
+}
+
+.headings .paragraph{
+    width: 50rem;
+}
+
+.about_section .para .heading2 h2{
+    font-size: 4rem;
+    font-weight: 600;
+}
+
+.about_section .para p {
+    font-size: 2.3rem;
+    line-height: 3.5rem;
+    font-weight: 550;
+
+}
+
+.about_section .para{
+    margin: 10rem 30rem;
+}
+.img2 .sign{
+    height: 8rem;
+    width: 16rem;
+}
+
+.skill_section .head4 h2{
+    font-size:4rem;
+    font-weight: 600;
+}
+
+.skill_section .pro .pro1 h4{
+    font-size: 2rem;
+    font-weight: 500;
+}
+.skill_section{
+    padding-top: 20rem;
+}
+.description .img6{
+    height: 5rem;
+    width: 5rem;
+}
+
+.description .he-pa h3{
+    font-size: 3rem;
+}
+
+.description .he-pa h4{
+    font-size: 1.5rem;
+}
+.description{
+    padding-top: 5rem;
+}
+.load  button{
+    font-size: 2.5rem;
+    padding-top: 0;
+}
+.work_section .row5 h2{
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.work_section .row5 p{
+    font-size: 2rem;
+}
+
+.baxso .icons{
+    height: 5rem;
+    width: 5rem;
+}
+
+.baxso h3{
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.parag p{
+    font-size: 2rem;
+}
+
+.sections {
+    height: 65rem;
+
+}
+
+.ukti h3{
+    font-size: 2.5rem;
+}
+
+.ukti p{
+    font-size: 2.4rem;
+}
+.quote{
+    padding: 15rem 30rem;
+}
+.contact_sec .row h2{
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.contact_sec .row p{
+    font-size: 2rem;
+}
+
+.contact_sec{
+    height: 65rem;
+}
+
+.contact_sec .row .box6 input{
+    height: 7rem;
+}
+
+.foot .row h3{
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.foot .row p{
+
+    font-size: 2rem;
+}
+
+.foot .row a{
+
+    font-size: 2rem;
+}
+
+
+}
+
+
+@media only screen and (max-width: 1024px){
+    .mobile_icon{
+        display: block;
+    }
+
+
+
+    .main_menu{
+        margin-left: 0rem;
+        display: none;
+    }
+    
+    .logo{
+        margin-right: 70rem;
+    }
+    
+    .main_menu li a{
+        font-size: 1.8rem;
+        font-weight: 520;
+    }
+    
+    .headings h1{
+        font-size: 2.7rem;
+        
+    }
+    .headings{
+        margin-left: 20rem;
+    }
+
+    .button1{
+        margin-left: 20rem;
+    }
+
+    .headings p{
+        font-size: 1.7rem;
+        line-height: 3rem;
+        font-weight: 500;
+    }
+    
+    .headings .paragraph{
+        width: 50rem;
+    }
+    
+    .about_section .para .heading2 h2{
+        font-size: 3.4rem;
+        font-weight: 600;
+    }
+    
+    .about_section .para p {
+        font-size: 1.9rem;
+        line-height: 3rem;
+        font-weight: 550;
+    
+    }
+    
+    .about_section .para{
+        margin: 10rem 10rem;
+    }
+    .img2 .sign{
+        height: 5rem;
+        width: 10rem;
+    }
+
+    .skill_section{
+        padding: 27rem 15rem;
+    }
+    
+    .skill_section .head4 h2{
+        font-size:3rem;
+        font-weight: 600;
+    }
+    
+    .skill_section .pro .pro1 h4{
+        font-size: 1.7rem;
+        font-weight: 500;
+    }
+    .skill_section{
+        padding-top: 25rem;
+    }
+    .description .img6{
+        height: 4rem;
+        width: 4rem;
+    }
+    
+    .description .he-pa h3{
+        font-size: 2.5rem;
+    }
+    
+    .description .he-pa h4{
+        font-size: 1.2rem;
+    }
+    .description{
+        padding-top: 5rem;
+    }
+    .load  button{
+        font-size: 2.5rem;
+        padding-top: 0;
+    }
+
+    .img4{
+        width: 25rem;
+        height: 25rem;
+    }
+
+    .work_section .row5 h2{
+        font-size: 3rem;
+        font-weight: 600;
+    }
+    
+    .work_section .row5 p{
+        font-size: 2rem;
+    }
+
+    .work_section .row5{
+        padding: 0 20rem;
+    }
+    
+    .baxso .icons{
+        height: 3rem;
+        width: 3rem;
+    }
+    
+    .baxso h3{
+        font-size: 2.5rem;
+        font-weight: 600;
+    }
+    
+    .parag p{
+        font-size: 1.2rem;
+    }
+    
+    .sections {
+        height: 53rem;
+    
+    }
+    
+    .ukti h3{
+        font-size: 2rem;
+    }
+    
+    .ukti p{
+        font-size: 1.7rem;
+    }
+    .quote{
+        padding: 15rem 20rem;
+    }
+    .contact_sec .row h2{
+        font-size: 2.5rem;
+        font-weight: 600;
+    }
+    
+    .contact_sec .row p{
+        font-size: 1.5rem;
+    }
+    
+    .contact_sec{
+        height: 65rem;
+    }
+    
+    .contact_sec .row .box6 input{
+        height: 3.6rem;
+    }
+
+    .contact_sec{
+        padding: 8rem 20rem;
+    }
+    
+    .foot .row h3{
+        font-size: 2.5rem;
+        font-weight: 600;
+    }
+    
+    .foot .row p{
+    
+        font-size: 1.5rem;
+    }
+    
+    .foot .row a{
+    
+        font-size: 1.5rem;
+    }
+
+
+}
+
+
+@media only screen and (max-width: 768px){
+
+.headings , .button1{
+    margin-left: 10rem;
+}
+.logo{
+    margin-right: 50rem;
+}
+
+.headings h1{
+    font-size: 2.7rem;
+    
+}
+
+
+.headings p{
+    font-size: 1.7rem;
+    line-height: 3rem;
+    font-weight: 500;
+}
+
+.headings .paragraph{
+    width: 50rem;
+}
+
+.about_section .para .heading2 h2{
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.about_section .para p {
+    font-size: 1.5rem;
+    line-height: 3rem;
+    font-weight: 550;
+
+}
+
+.about_section .para{
+    margin: 10rem 5rem;
+}
+.img2 .sign{
+    height: 5rem;
+    width: 10rem;
+}
+
+.skill_section .head4 h2{
+    font-size:3rem;
+    font-weight: 600;
+}
+
+.skill_section{
+    padding: 27rem 10rem;
+}
+
+.skill_section .pro .pro1 h4{
+    font-size: 1.7rem;
+    font-weight: 500;
+}
+.skill_section{
+    padding-top: 25rem;
+}
+.description .img6{
+    height: 3rem;
+    width: 3rem;
+}
+
+.description .he-pa h3{
+    font-size: 2rem;
+}
+.description{
+    padding: 1rem 4rem;
+}
+
+.description .he-pa h4{
+    font-size: 1rem;
+}
+.description{
+    padding-top: 5rem;
+}
+.load  button{
+    font-size: 2rem;
+    padding-top: 0;
+}
+
+.img4{
+    width: 16rem;
+    height: 20rem;
+}
+
+.work_section .row5 h2{
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.work_section .row5 p{
+    font-size: 1.2rem;
+}
+
+.work_section .row5{
+    padding: 0 10rem;
+}
+
+.baxso .icons{
+    height: 2.5rem;
+    width: 2.5rem;
+}
+
+.baxso h3{
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.parag p{
+    font-size: 1rem;
+}
+
+.sections {
+    height: 45rem;
+
+}
+
+.ukti h3{
+    font-size: 1.7rem;
+}
+
+.ukti p{
+    font-size: 1rem;
+}
+.quote{
+    padding: 15rem 10rem;
+}
+
+.feas{
+    height: 10rem;
+    width: 10rem;
+}
+
+.contact_sec .row h2{
+    font-size: 2.1rem;
+    font-weight: 600;
+}
+
+.contact_sec .row p{
+    font-size: 1.2rem;
+}
+
+.contact_sec{
+    height: 50rem;
+}
+
+.contact_sec .row .box6 input{
+    height: 3.6rem;
+}
+
+.contact_sec{
+    padding: 8rem 10rem;
+}
+
+.foot .row h3{
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.foot .row p{
+
+    font-size: 1.1rem;
+}
+
+.foot .row a{
+
+    font-size: 1.1rem;
+}
+
+.foot{
+    padding: 10rem 1rem;
+    height: 22rem;
+}
+
+}
+
+
+
+@media only screen and (max-width: 480px){
+
+        .headings , .button1{
+            margin-left: 5rem;
+        }
+
+        .logo{
+            margin-right: 20rem;
+        }
+        
+        
+        .headings h1{
+            font-size: 2.7rem;
+            
+        }
+
+        .sections{
+            
+            display: none;
+
+        }
+        
+        
+        .headings p{
+            font-size: 1.7rem;
+            line-height: 3rem;
+            font-weight: 500;
+        }
+        
+        .headings .paragraph{
+            width: 30rem;
+        }
+        
+        .about_section .para .heading2 h2{
+            font-size: 3rem;
+            font-weight: 600;
+        }
+        
+        .about_section .para p {
+            font-size: 1.5rem;
+            line-height: 3rem;
+            font-weight: 550;
+        
+        }
+        
+        .about_section .para{
+            margin: 10rem 5rem;
+        }
+        .img2 .sign{
+            height: 5rem;
+            width: 10rem;
+        }
+        
+        .skill_section .head4 h2{
+            font-size:3rem;
+            font-weight: 600;
+        }
+        
+        .skill_section{
+            padding: 27rem 5rem;
+        }
+        
+        .skill_section .pro .pro1 h4{
+            font-size: 1.7rem;
+            font-weight: 500;
+        }
+        .skill_section{
+            padding-top: 25rem;
+        }
+        .description .img6{
+            height: 3rem;
+            width: 3rem;
+        }
+        
+        .description .he-pa h3{
+            font-size: 2rem;
+        }
+        .description{
+            padding: 1rem 4rem;
+        }
+        
+        .description .he-pa h4{
+            font-size: 1rem;
+        }
+        .description{
+            padding-top: 5rem;
+        }
+        .load  button{
+            font-size: 2rem;
+            padding-top: 0;
+        }
+        
+        .img4{
+            width: 30rem;
+            height: 30rem;
+        }
+        
+        .work_section .row5 h2{
+            font-size: 2rem;
+            font-weight: 600;
+        }
+        
+        .work_section .row5 p{
+            font-size: 1.2rem;
+        }
+        
+        .work_section .row5{
+            padding: 0 10rem;
+        }
+        
+        .baxso .icons{
+            height: 2.5rem;
+            width: 2.5rem;
+        }
+        
+        .baxso h3{
+            font-size: 2rem;
+            font-weight: 600;
+        }
+        
+        .parag p{
+            font-size: 1rem;
+        }
+        
+        .sections {
+            height: 45rem;
+        
+        }
+        
+        .ukti h3{
+            font-size: 1.4rem;
+        }
+        
+        .ukti p{
+            font-size: .7rem;
+        }
+        .quote{
+            padding: 15rem 5rem;
+        }
+        
+        .feas{
+            height: 10rem;
+            width: 10rem;
+        }
+        
+        .contact_sec .row h2{
+            font-size: 2.1rem;
+            font-weight: 600;
+        }
+        
+        .contact_sec .row p{
+            font-size: 1.2rem;
+        }
+        
+        .contact_sec{
+            height: 50rem;
+        }
+        
+        .contact_sec .row .box6 input{
+            height: 3.6rem;
+
+        }
+
+
+        
+        
+        .contact_sec{
+            padding: 8rem 2rem;
+        }
+        
+        .foot .row h3{
+            font-size: 1rem;
+            font-weight: 600;
+        }
+        
+        .foot .row p{
+        
+            font-size: .8rem;
+        }
+        
+        .foot .row a{
+        
+            font-size: .8rem;
+        }
+        
+        .foot{
+            padding: 4rem 1rem;
+            height: 13rem;
+        }
+
+        .hjk .social{
+            height: 1.5rem;
+            width: 1.5rem;
+            padding: 0;
+        }
+        
+
+
+
+}
+
+@media only screen and (max-width: 425px){
+
+.headings , .button1{
+    margin-left: 5rem;
+}
+
+.headings h1{
+    font-size: 2.7rem;
+        
+    }
+
+.sections{
+        
+    display: none;
+
+    }
+    
+    
+.headings p{
+    font-size: 1.7rem;
+    line-height: 3rem;
+    font-weight: 500;
+    }
+    
+.headings .paragraph{
+    width: 30rem;
+    }
+    
+.about_section .para .heading2 h2{
+    font-size: 3rem;
+    font-weight: 600;
+    }
+    
+.about_section .para p {
+    font-size: 1.5rem;
+    line-height: 3rem;
+    font-weight: 550;
+    
+    }
+    
+.about_section .para{
+    margin: 10rem 5rem;
+    }
+.img2 .sign{
+    height: 5rem;
+    width: 10rem;
+    }
+    
+.skill_section .head4 h2{
+    font-size:3rem;
+    font-weight: 600;
+    }
+    
+.skill_section{
+    padding: 27rem 5rem;
+    }
+    
+.skill_section .pro .pro1 h4{
+    font-size: 1.7rem;
+    font-weight: 500;
+    }
+.skill_section{
+    padding-top: 25rem;
+    }
+.description .img6{
+    height: 3rem;
+    width: 3rem;
+    }
+    
+    .description .he-pa h3{
+        font-size: 2rem;
+    }
+    .description{
+        padding: 1rem 4rem;
+    }
+    
+    .description .he-pa h4{
+        font-size: 1rem;
+    }
+    .description{
+        padding-top: 5rem;
+    }
+    .load  button{
+        font-size: 2rem;
+        padding-top: 0;
+    }
+    
+    .img4{
+        width: 30rem;
+        height: 30rem;
+    }
+    
+    .work_section .row5 h2{
+        font-size: 2rem;
+        font-weight: 600;
+    }
+    
+    .work_section .row5 p{
+        font-size: 1.2rem;
+    }
+    
+    .work_section .row5{
+        padding: 0 10rem;
+    }
+    
+    .baxso .icons{
+        height: 2.5rem;
+        width: 2.5rem;
+    }
+    
+    .baxso h3{
+        font-size: 2rem;
+        font-weight: 600;
+    }
+    
+    .parag p{
+        font-size: 1rem;
+    }
+    
+    .sections {
+        height: 45rem;
+    
+    }
+
+    .logo{
+        margin-left: -5rem;
+    }
+    
+    .ukti h3{
+        font-size: 1.4rem;
+    }
+    
+    .ukti p{
+        font-size: .7rem;
+    }
+    .quote{
+        padding: 15rem 5rem;
+    }
+    
+    .feas{
+        height: 10rem;
+        width: 10rem;
+    }
+    
+    .contact_sec .row h2{
+        font-size: 2.1rem;
+        font-weight: 600;
+    }
+    
+    .contact_sec .row p{
+        font-size: 1.2rem;
+    }
+    
+    .contact_sec{
+        height: 50rem;
+    }
+    
+    .contact_sec .row .box6 input{
+        height: 3.6rem;
+
+    }
+
+
+    
+    
+    .contact_sec{
+        padding: 8rem 2rem;
+    }
+    
+    .foot .row h3{
+        font-size: 1rem;
+        font-weight: 600;
+    }
+    
+    .foot .row p{
+    
+        font-size: .8rem;
+    }
+    
+    .foot .row a{
+    
+        font-size: .8rem;
+    }
+    
+    .foot{
+        padding: 4rem 1rem;
+        height: 13rem;
+    }
+
+    .hjk .social{
+        height: 1.5rem;
+        width: 1.5rem;
+        padding: 0;
+}
+.logo{
+    margin-right: 10rem;
+    }
+    
+}
+
+
+
+
+@media only screen and (max-width: 375px){
+
+    .headings , .button1{
+        margin-left: 5rem;
+    }
+    
+    
+    .headings h1{
+        font-size: 2.7rem;
+        
+    }
+
+    .sections{
+        
+        display: none;
+
+    }
+    
+    
+    .headings p{
+        font-size: 1.7rem;
+        line-height: 3rem;
+        font-weight: 500;
+    }
+    
+    .headings .paragraph{
+        width: 30rem;
+    }
+    
+    .about_section .para .heading2 h2{
+        font-size: 3rem;
+        font-weight: 600;
+    }
+    
+    .about_section .para p {
+        font-size: 1.5rem;
+        line-height: 3rem;
+        font-weight: 550;
+    
+    }
+    
+    .about_section .para{
+        margin: 10rem 5rem;
+    }
+    .img2 .sign{
+        height: 5rem;
+        width: 10rem;
+    }
+    
+    .skill_section .head4 h2{
+        font-size:3rem;
+        font-weight: 600;
+    }
+    
+    .skill_section{
+        padding: 27rem 5rem;
+    }
+    
+    .skill_section .pro .pro1 h4{
+        font-size: 1.7rem;
+        font-weight: 500;
+    }
+    .skill_section{
+        padding-top: 25rem;
+    }
+    .description .img6{
+        height: 3rem;
+        width: 3rem;
+    }
+    
+    .description .he-pa h3{
+        font-size: 2rem;
+    }
+    .description{
+        padding: 1rem 4rem;
+    }
+    
+    .description .he-pa h4{
+        font-size: 1rem;
+    }
+    .description{
+        padding-top: 5rem;
+    }
+    .load  button{
+        font-size: 2rem;
+        padding-top: 0;
+    }
+    
+    .img4{
+        width: 25rem;
+        height: 26rem;
+    }
+  
+    
+    .work_section .row5 h2{
+        font-size: 2rem;
+        font-weight: 600;
+    }
+    
+    .work_section .row5 p{
+        font-size: 1.2rem;
+    }
+    
+    .work_section .row5{
+        padding: 0 10rem;
+    }
+    
+    .baxso .icons{
+        height: 2.5rem;
+        width: 2.5rem;
+    }
+    
+    .baxso h3{
+        font-size: 2rem;
+        font-weight: 600;
+    }
+    
+    .parag p{
+        font-size: 1rem;
+    }
+    
+    .sections {
+        height: 45rem;
+    
+    }
+    
+    .ukti h3{
+        font-size: 1.4rem;
+    }
+    
+    .ukti p{
+        font-size: .7rem;
+    }
+    .quote{
+        padding: 15rem 5rem;
+    }
+    
+    .feas{
+        height: 10rem;
+        width: 10rem;
+    }
+    
+    .contact_sec .row h2{
+        font-size: 2.1rem;
+        font-weight: 600;
+    }
+    
+    .contact_sec .row p{
+        font-size: 1.2rem;
+    }
+    
+    .contact_sec{
+        height: 50rem;
+    }
+    
+    .contact_sec .row .box6 input{
+        height: 3.6rem;
+
+    }
+
+
+    
+    
+    .contact_sec{
+        padding: 8rem 2rem;
+    }
+    
+    .foot .row h3{
+        font-size: 1rem;
+        font-weight: 600;
+    }
+    
+    .foot .row p{
+    
+        font-size: .8rem;
+    }
+    
+    .foot .row a{
+    
+        font-size: .8rem;
+    }
+    
+    .foot{
+        padding: 4rem 1rem;
+        height: 13rem;
+    }
+
+    .hjk .social{
+        height: 1.5rem;
+        width: 1.5rem;
+        padding: 0;
+    }
+    
+
+
+
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 375px){
+
+    .logo{
+        margin-right: 10rem;
+        }
+
+    
+    .testimonial .row .span_1_of_4{
+        width: 100%;
+    }  
+    
+    .testimonial .row .box2:hover::before{
+            width: 60%;
+    }
+
+    .testimonial{
+        padding: 0 20%;
+        text-align: center;
+    }
+
+    .headings , .button1{
+        margin-left: 5rem;
+    }
+    
+    
+    .headings h1{
+        font-size: 2rem;
+        
+    }
+
+    .sections{
+        
+        display: none;
+
+    }
+    
+    
+    .headings p{
+        font-size: 1rem;
+        line-height: 3rem;
+        font-weight: 500;
+    }
+    
+    .headings .paragraph{
+        width: 20rem;
+    }
+    
+    .about_section .para .heading2 h2{
+        font-size: 3rem;
+        font-weight: 600;
+    }
+    
+    .about_section .para p {
+        font-size: 1.5rem;
+        line-height: 3rem;
+        font-weight: 550;
+    
+    }
+    
+    .about_section .para{
+        margin: 10rem 5rem;
+    }
+    .img2 .sign{
+        height: 5rem;
+        width: 10rem;
+    }
+    
+    .skill_section .head4 h2{
+        font-size:3rem;
+        font-weight: 600;
+    }
+    
+    .skill_section{
+        padding: 27rem 3rem;
+    }
+    
+    .skill_section .pro .pro1 h4{
+        font-size: 1rem;
+        font-weight: 500;
+    }
+    .skill_section{
+        padding-top: 25rem;
+    }
+    .description .img6{
+        height: 3rem;
+        width: 3rem;
+        margin-left: -1rem;
+    }
+    
+    .description .he-pa h3{
+        font-size: 2rem;
+    }
+    .description{
+        padding: 0rem 4rem;
+    }
+    
+    .description .he-pa h4{
+        font-size: 1rem;
+    }
+    .description{
+        padding-top: 5rem;
+    }
+    .load  button{
+        font-size: 2rem;
+        padding-top: 0;
+    }
+    
+    .img4{
+        width: 17rem;
+        height: 20rem;
+    }
+  
+    
+    .work_section .row5 h2{
+        font-size: 2rem;
+        font-weight: 600;
+    }
+    
+    .work_section .row5 p{
+        font-size: 1.2rem;
+    }
+    
+    .work_section .row5{
+        padding: 0 10rem;
+    }
+    
+    .baxso .icons{
+        height: 2.5rem;
+        width: 2.5rem;
+    }
+    
+    .baxso h3{
+        font-size: 2rem;
+        font-weight: 600;
+    }
+    
+    .parag p{
+        font-size: 1rem;
+    }
+    
+    .sections {
+        height: 45rem;
+    
+    }
+    
+    .ukti h3{
+        font-size: 1.4rem;
+    }
+    
+    .ukti p{
+        font-size: .7rem;
+    }
+    .quote{
+        padding: 15rem 5rem;
+    }
+    
+    .feas{
+        height: 10rem;
+        width: 10rem;
+    }
+    
+    .contact_sec .row h2{
+        font-size: 2.1rem;
+        font-weight: 600;
+    }
+    
+    .contact_sec .row p{
+        font-size: 1.2rem;
+    }
+    
+    .contact_sec{
+        height: 50rem;
+    }
+    
+    .contact_sec .row .box6 input{
+        height: 3rem;
+
+    }
+
+    .contact_sec .row .box6 input:first-child{
+        border-right: .5rem solid  rgba(236, 234, 234, 0.815);
+    }
+
+    .contact_sec .row .box6 input:nth-child(2){
+        border-left: 1rem solid  rgba(236, 234, 234, 0.815);
+        padding: 0 0;
+    }
+
+    
+    
+    .contact_sec{
+        padding: 8rem 2rem;
+    }
+    
+    .foot .row h3{
+        font-size: 1rem;
+        font-weight: 600;
+    }
+    
+    .foot .row p{
+    
+        font-size: .8rem;
+    }
+    
+    .foot .row a{
+    
+        font-size: .8rem;
+    }
+    
+    .foot{
+        padding: 4rem 1rem;
+        height: 13rem;
+    }
+
+    .hjk .social{
+        height: 1.5rem;
+        width: 1.5rem;
+        padding: 0;
+    }
+    
+
+
+
+}
+
+@media only screen and (max-width: 320px){
+.logo{
+    margin-right: 8rem;
+}
+
+}
